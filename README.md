@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
 </div>
 
-<h1 align="center">📺 YouTube Clone Application</h1>
+<h1 align="center">📺 VideoStream Hub</h1>
 
 <p align="center">
-  A modern, fully responsive Youtube Clone application demonstrating mastery of React, Material UI (MUI), and API integration. This application replicates the core functionality and design of YouTube, providing a seamless video browsing and playing experience.
+  A modern, fully responsive VideoStream Hub application demonstrating mastery of React, Material UI (MUI), and API integration. This application replicates the core functionality and design of a modern video platform, providing a seamless video browsing and playing experience.
 </p>
 
 ## ✨ Features
@@ -41,12 +41,12 @@ You need `Node.js` and `npm` installed on your machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/urvitgehlot/youtube_clone_react.git
+   git clone https://github.com/urvitgehlot/video-stream-hub.git
    ```
 
 2. Navigate into the project directory:
    ```bash
-   cd youtube_clone_react
+   cd video-stream-hub
    ```
 
 3. Install the dependencies:
@@ -56,7 +56,7 @@ You need `Node.js` and `npm` installed on your machine.
 
 4. Create a `.env` file in the root directory and add your API key (if applicable):
    ```env
-   REACT_APP_RAPID_API_KEY=your_api_key_here
+   REACT_APP_RAPID_KEY=your_api_key_here
    ```
    *(Note: This project connects to the YouTube v3 API via RapidAPI)*
 
